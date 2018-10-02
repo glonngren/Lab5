@@ -1,0 +1,40 @@
+body {
+  background:url('planet.jpg');
+}
+h1 {
+  font-family: 'Audiowide', cursive;
+  color: #FFFFFF;
+  font-size: 3.5em;
+  text-align: center;
+}
+.system {
+  background-color: #686868;
+  font-family: 'Expletus Sans', cursive;
+  color: #FFFFFF;
+  font-size: 2em;
+  font-weight: normal;
+  text-align: center;
+}
+table {
+  font-family: 'Expletus Sans', cursive;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+th {
+  background-color: #424153;
+  color: #FFFFFF;
+  font-size: 1em;
+  width: 50px;
+  padding: 15px 10px 15px 10px;
+  text-align: center;
+  border: 1px solid #120D24;
+}
+td {
+  background-color: #999999;
+  color: #FFFFFF;
+  font-size: 1em;
+  padding: 15px 10px 15px 10px;;
+  text-align: left;
+  border: 1px solid #120D24;
+}
