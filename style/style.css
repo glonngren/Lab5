@@ -13,6 +13,7 @@ h1 {
   font-size: 2em;
   font-weight: normal;
   text-align: center;
+  border: 1px solid #000000;
 }
 .earth {
   background-color: #8ca3a3;
@@ -21,6 +22,7 @@ h1 {
   font-size: 2em;
   font-weight: normal;
   text-align: center;
+  border: 1px solid #000000;
 }
 .mars {
   background-color: #563f46;
@@ -29,6 +31,7 @@ h1 {
   font-size: 2em;
   font-weight: normal;
   text-align: center;
+  border: 1px solid #000000;
 }
 .jupiter {
   background-color: #625750;
@@ -37,6 +40,7 @@ h1 {
   font-size: 2em;
   font-weight: normal;
   text-align: center;
+  border: 1px solid #000000;
 }
 .saturn {
   background-color: #cab577;
@@ -45,6 +49,7 @@ h1 {
   font-size: 2em;
   font-weight: normal;
   text-align: center;
+  border: 1px solid #000000;
 }
 .earthinfo {
   background-color: #9cb0b0;
@@ -53,7 +58,7 @@ h1 {
   font-size: 1em;
   padding: 15px 10px 15px 10px;
   text-align: center;
-  border: 1px solid #120D24;
+  border: 1px solid #000000;
 }
 .marsinfo {
   background-color: #9d7b85;
@@ -62,7 +67,7 @@ h1 {
   font-size: 1em;
   padding: 15px 10px 15px 10px;
   text-align: center;
-  border: 1px solid #120D24;
+  border: 1px solid #000000;
 }
 .jupiterinfo {
   background-color: #988a81;
@@ -71,7 +76,7 @@ h1 {
   font-size: 1em;
   padding: 15px 10px 15px 10px;
   text-align: center;
-  border: 1px solid #120D24;
+  border: 1px solid #000000;
 }
 .saturninfo {
   background-color: #d4c391;
@@ -80,7 +85,7 @@ h1 {
   font-size: 1em;
   padding: 15px 10px 15px 10px;
   text-align: center;
-  border: 1px solid #120D24;
+  border: 1px solid #000000;
 }
 table {
   margin-left: auto;
@@ -94,5 +99,5 @@ th {
   width: 50px;
   padding: 15px 10px 15px 10px;
   text-align: center;
-  border: 1px solid #120D24;
+  border: 1px solid #000000;
 }
