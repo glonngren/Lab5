@@ -2,13 +2,13 @@ body {
   background:url('planet.jpg');
 }
 h1 {
-  font-family: 'Audiowide', cursive;
+  font-family: 'Audiowide';
   color: #FFFFFF;
   font-size: 3.5em;
   text-align: center;
 }
 .planet {
-  font-family: 'Squada One', cursive;
+  font-family: 'Squada One';
   color: #FFFFFF;
   font-size: 2em;
   font-weight: normal;
@@ -17,7 +17,7 @@ h1 {
 }
 .earth {
   background-color: #8ca3a3;
-  font-family: 'Expletus Sans', cursive;
+  font-family: 'Expletus Sans';
   color: #FFFFFF;
   font-size: 2em;
   font-weight: normal;
@@ -26,7 +26,7 @@ h1 {
 }
 .mars {
   background-color: #563f46;
-  font-family: 'Expletus Sans', cursive;
+  font-family: 'Expletus Sans';
   color: #FFFFFF;
   font-size: 2em;
   font-weight: normal;
@@ -35,7 +35,7 @@ h1 {
 }
 .jupiter {
   background-color: #625750;
-  font-family: 'Expletus Sans', cursive;
+  font-family: 'Expletus Sans';
   color: #FFFFFF;
   font-size: 2em;
   font-weight: normal;
@@ -44,7 +44,7 @@ h1 {
 }
 .saturn {
   background-color: #cab577;
-  font-family: 'Expletus Sans', cursive;
+  font-family: 'Expletus Sans';
   color: #FFFFFF;
   font-size: 2em;
   font-weight: normal;
@@ -53,7 +53,7 @@ h1 {
 }
 .earthinfo {
   background-color: #9cb0b0;
-  font-family: 'Nova Square', cursive;
+  font-family: 'Nova Square';
   color: #FFFFFF;
   font-size: 1em;
   padding: 15px 10px 15px 10px;
@@ -62,7 +62,7 @@ h1 {
 }
 .marsinfo {
   background-color: #9d7b85;
-  font-family: 'Nova Square', cursive;
+  font-family: 'Nova Square';
   color: #FFFFFF;
   font-size: 1em;
   padding: 15px 10px 15px 10px;
@@ -71,7 +71,7 @@ h1 {
 }
 .jupiterinfo {
   background-color: #988a81;
-  font-family: 'Nova Square', cursive;
+  font-family: 'Nova Square';
   color: #FFFFFF;
   font-size: 1em;
   padding: 15px 10px 15px 10px;
@@ -80,7 +80,7 @@ h1 {
 }
 .saturninfo {
   background-color: #d4c391;
-  font-family: 'Nova Square', cursive;
+  font-family: 'Nova Square';
   color: #FFFFFF;
   font-size: 1em;
   padding: 15px 10px 15px 10px;
