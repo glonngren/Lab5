@@ -7,42 +7,6 @@ h1 {
   font-size: 3.5em;
   text-align: center;
 }
-.planet {
-  font-family: 'Squada One';
-  color: #FFFFFF;
-  font-size: 2em;
-  font-weight: bold;
-  text-align: center;
-  border: 1px solid #000000;
-}
-.earth {
-  background-color: #8ca3a3;
-  font-size: 2em;
-}
-.mars {
-  background-color: #563f46;
-  font-size: 2em;
-}
-.jupiter {
-  background-color: #625750;
-  font-size: 2em;
-}
-.saturn {
-  background-color: #cab577;
-  font-size: 2em;
-}
-.earthinfo {
-  background-color: #9cb0b0;
-}
-.marsinfo {
-  background-color: #9d7b85;
-}
-.jupiterinfo {
-  background-color: #988a81;
-}
-.saturninfo {
-  background-color: #d4c391;
-}
 table {
   margin-left: auto;
   margin-right: auto;
@@ -72,4 +36,36 @@ td {
   padding: 15px 10px 15px 10px;
   text-align: center;
   border: 1px solid #000000;
+}
+.planet {
+  font-family: 'Squada One';
+  font-size: 2em;
+}
+.earth {
+  background-color: #8ca3a3;
+  font-size: 2em;
+}
+.mars {
+  background-color: #563f46;
+  font-size: 2em;
+}
+.jupiter {
+  background-color: #625750;
+  font-size: 2em;
+}
+.saturn {
+  background-color: #cab577;
+  font-size: 2em;
+}
+.earthinfo {
+  background-color: #9cb0b0;
+}
+.marsinfo {
+  background-color: #9d7b85;
+}
+.jupiterinfo {
+  background-color: #988a81;
+}
+.saturninfo {
+  background-color: #d4c391;
 }
